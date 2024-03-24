@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/directory.png</file>
+        <file>image/free-icon-font-angle-left-3916912.png</file>
+        <file>image/listView.png</file>
+        <file>image/picturedView.png</file>
+        <file>image/diskImage.png</file>
+        <file>image/homeImage.png</file>
+        <file>image/leftArroy.png</file>
+        <file>image/tableView.png</file>
+        <file>image/file.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DirectoryListView.qml</file>
+        <file>CustomButton.qml</file>
+        <file>Theme.js</file>
+        <file>MainMenu.qml</file>
+    </qresource>
+</RCC>
